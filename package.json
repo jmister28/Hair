@@ -1,1 +1,6 @@
-
+{
+  "name":"jm_news"
+  "version":"0.0.1"
+  "description":"A news Channel"
+  "main":"main.js"
+}
